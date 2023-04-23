@@ -1,0 +1,41 @@
+.box
+{
+	height:500px;
+	width:800px;
+	background:aqua;
+	border-radius:5px;
+	margin:5px auto;
+	box-shadow:0px 0px 10px green;
+	padding:18px;
+}
+body{
+	background:antiquewhite;
+}
+.txt{
+	  height:80px;
+	  width:116vh;
+	  border-radius:10px;
+	  border:1px solid white;
+}
+.head{
+	height:80px;
+	width:100%;
+	background:#ebebeb;
+}
+nav ul li{
+	list-style-type:none;
+ float:left; 
+	 margin-left:40vh;
+line-height:80px;
+font-size:20px;	 
+	/* /* display:flex; */ 
+	/* /* display:block; */
+ } 
+ a{
+	 text-decoration:none;
+	 color:white;
+ }
+ a:hover{
+		 color:white;
+ 
+ }
